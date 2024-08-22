@@ -4,11 +4,10 @@
 
 Hi 👋! My name is Cindy Nguyen. I currently attend UNCC, majoring in Computer Science and Biology. I am expected to graduate December 2024 and this Github is a collection of all my projects I've worked on as a student. I am passionate about learning and have an interest in UI/UX. 
 
-Langages: Java, Python, Javascript, C, CSS, HTML, SQL
-
-Experiences: Summer '23 & '24 Intern at Ally Banking
-
-Hobbies: Drawing, Reading, and Cooking!
+- **Education:** BS Computer Science at UNCC
+- **Langages:** Java, Python, Javascript, CSS, HTML, SQL, C
+- **Experiences:** Summer '23 & '24 Intern at Ally Banking
+- **Hobbies:** Drawing, Reading, and Video games!
 
 
 ## 🖥️ **Featured Projects** 🖥️
