@@ -1,4 +1,4 @@
-# ✨ **Welcome to my GitHub!** ✨
+<span style="font-size: 24px;">✨ **Welcome to my GitHub!** ✨</span>
 
 ## 📚 **About Me** 📚</span>
 
@@ -21,13 +21,12 @@ Hobbies: Drawing, Reading, and Cooking!
   This is a website advertising a local nail salon. It has a welcome, contact, list of services, and gallery page for incoming customers to look at.
 
    https://github.com/cinguu/Nail-Salon-Webpage
- ________________________________________________________________________________________________________________________________________________________________
-
+ 
 ## 🎯 **Goals** 🎯
 - Learn and get certified in AWS
 - Learn React and use it in a project
 - Implement AI into my projects
- ________________________________________________________________________________________________________________________________________________________________
+ 
 ## 📫 **Let's Connect!** 📫
 
 LinkedIn: https://www.linkedin.com/in/cindynguyen77/
