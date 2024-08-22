@@ -1,7 +1,7 @@
 ✨ **Welcome to my GitHub!** ✨ 
 ________________________________________________________________________________________________________________________________________________________________
 
-📚 ** About Me ** 📚
+📚 **About Me** 📚
 
 Hi 👋! My name is Cindy Nguyen. I currently attend UNCC, majoring in Computer Science and Biology. I am expected to graduate December 2024 and this Github is a collection of all my projects I've worked on as a student. I am passionate about learning and have an interest in UI/UX. 
 
@@ -12,7 +12,7 @@ Hobbies: Drawing, Reading, and Cooking!
 ________________________________________________________________________________________________________________________________________________________________
 
 
-🖥️ ** Featured Projects **🖥️
+🖥️ **Featured Projects** 🖥️
 - UNCC Marketplace
   This project was made so UNCC students had a way to sell their new and used books, dorm items, and etc. Students can create an account, post a listing, and contact other students to buy items.
 
@@ -21,12 +21,12 @@ ________________________________________________________________________________
 
  ________________________________________________________________________________________________________________________________________________________________
 
-🎯** Goals **🎯
+🎯 **Goals** 🎯
 - Learn and get certified in AWS
 - Learn React and use it in a project
 - Implement AI into my projects
  ________________________________________________________________________________________________________________________________________________________________
-📫** Let's Connect! **📫
+📫 **Let's Connect!** 📫
 
 LinkedIn: https://www.linkedin.com/in/cindynguyen77/
 Resume: [Cindy Nguyen Resume '24 CS (1).pdf](https://github.com/user-attachments/files/16716992/Cindy.Nguyen.Resume.24.CS.1.pdf)
