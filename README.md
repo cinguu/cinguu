@@ -1,6 +1,7 @@
 ✨ **Welcome to my GitHub!** ✨ 
+________________________________________________________________________________________________________________________________________________________________
 
-📚 **ABOUT ME** 📚
+📚 **About Me** 📚
 
 Hi 👋! My name is Cindy Nguyen. I currently attend UNCC, majoring in Computer Science and Biology. I am expected to graduate December 2024 and this Github is a collection of all my projects I've worked on as a student. I am passionate about learning and have an interest in UI/UX. 
 
