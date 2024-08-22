@@ -1,4 +1,4 @@
-<span style="font-size: 24px;">✨ **Welcome to my GitHub!** ✨</span>
+<span style="font-size: 40px;">✨ **Welcome to my GitHub!** ✨</span>
 
 ## 📚 **About Me** 📚</span>
 
