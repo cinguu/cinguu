@@ -1,4 +1,4 @@
-<span style="font-size: 40px;">✨ **Welcome to my GitHub!** ✨</span>
+<h1 style="border-bottom: none;">✨ **Welcome to my GitHub!** ✨</h1>
 
 ## 📚 **About Me** 📚</span>
 
