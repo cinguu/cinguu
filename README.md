@@ -29,5 +29,6 @@ ________________________________________________________________________________
 📫 **Let's Connect!** 📫
 
 LinkedIn: https://www.linkedin.com/in/cindynguyen77/
+
 Resume: [Cindy Nguyen Resume '24 CS (1).pdf](https://github.com/user-attachments/files/16716992/Cindy.Nguyen.Resume.24.CS.1.pdf)
 
