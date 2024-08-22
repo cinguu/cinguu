@@ -15,11 +15,13 @@ ________________________________________________________________________________
 🖥️ **Featured Projects** 🖥️
 - UNCC Marketplace
   This project was made so UNCC students had a way to sell their new and used books, dorm items, and etc. Students can create an account, post a listing, and contact other students to buy items.
+  
   https://github.com/AnessaLeng/3155FinalProject
 
 - Nail Salon Website
   This is a website advertising a local nail salon. It has a welcome, contact, list of services, and gallery page for incoming customers to look at.
-  https://github.com/cinguu/Nail-Salon-Webpage
+
+   https://github.com/cinguu/Nail-Salon-Webpage
  ________________________________________________________________________________________________________________________________________________________________
 
 🎯 **Goals** 🎯
