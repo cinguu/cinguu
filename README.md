@@ -20,7 +20,8 @@ Hi 👋! My name is Cindy Nguyen. I currently attend UNCC, majoring in Computer 
   
   This is a flashcard application written in Java. Students are able to create flashcard decks, save them, and load them up to study. Students are also able to edit and edit their cards as needed. It is a great tool for learning and has an aesthetic, intutive design. 
   
-  (https://github.com/cinguu/Quizzy-Flashcard-App)
+  https://github.com/cinguu/Quizzy-Flashcard-App
+  
 - **Nail Salon Website**
   
   This is a website advertising a local nail salon. It has a welcome, contact, list of services, and gallery page for incoming customers to look at.
