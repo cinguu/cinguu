@@ -37,4 +37,5 @@ Hi 👋! My name is Cindy Nguyen. I currently attend UNCC, majoring in Computer 
 
 LinkedIn: https://www.linkedin.com/in/cindynguyen77/
 
-Resume: !Cindy Nguyen Resume '24 CS 2.pdf
+Resume: [!Cindy Nguyen Resume '24 CS 2.pdf](https://github.com/user-attachments/files/17485730/Cindy.Nguyen.Resume.24.CS.2.pdf)
+
