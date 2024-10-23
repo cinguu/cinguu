@@ -10,7 +10,7 @@ Hi 👋! My name is Cindy Nguyen. I currently attend UNCC, majoring in Computer 
 
 
 ## 🖥️ **Featured Projects** 🖥️
-- **UNCC Marketplace**
+- **UNCC Marketplace -- Niner Thrifts**
   
   This project was made so UNCC students had a way to sell their new and used books, dorm items, and etc. Students can create an account, post a listing, and contact other students to buy items.
   
